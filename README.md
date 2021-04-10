@@ -2,8 +2,6 @@
 
 <div valign="bottom">
 
-<img src="assets/zoom-icon.png" width="33%" align="right" valign="top">
-
 **Description**: 
 
 **Built by**: Shiv Patel, Samual Johnson, and Bobby Coz
