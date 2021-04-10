@@ -1,4 +1,4 @@
-# PROJECT_NAME (Bitcamp - 04/11/2021)
+# CryptoWise (Bitcamp - 04/11/2021)
 
 <div valign="bottom">
 
