@@ -63,13 +63,11 @@ function FAQ() {
               </div>
               {question === 0 && (
                 <p className='pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg'>
-                  Find the latest events updates or create events, concerts,
-                  conferences, workshops, exhibitions, and cultural events in
-                  all cities of the US. The aim of Eventistan is to promote
-                  healthy and entertaining event. Greatest appreciation to you
-                  and your team for the outstanding job you did for us. The
-                  website is just what we wanted, and we were thrilled with the
-                  speed your team exercised.{' '}
+                  CryptoWise is an intuitive interface that allows the user to
+                  easily manage their crypto investments. Our service makes
+                  investing in cryptocurrencies less intimidating, and should
+                  make it easier as an investor to manage and overview your
+                  portfolio, with tailored push- notifications.{' '}
                 </p>
               )}
             </li>
@@ -125,13 +123,9 @@ function FAQ() {
               </div>
               {question === 1 && (
                 <p className='pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg'>
-                  Find the latest events updates or create events, concerts,
-                  conferences, workshops, exhibitions, and cultural events in
-                  all cities of the US. The aim of Eventistan is to promote
-                  healthy and entertaining event. Greatest appreciation to you
-                  and your team for the outstanding job you did for us. The
-                  website is just what we wanted, and we were thrilled with the
-                  speed your team exercised.{' '}
+                  Yes, a Coinbase account is required. As of now we can only
+                  interface with Coinbase wallets, but we are continusally
+                  looking for ways to make our software more assisable{' '}
                 </p>
               )}
             </li>
@@ -187,13 +181,8 @@ function FAQ() {
               </div>
               {question === 2 && (
                 <p className='pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg'>
-                  Find the latest events updates or create events, concerts,
-                  conferences, workshops, exhibitions, and cultural events in
-                  all cities of the US. The aim of Eventistan is to promote
-                  healthy and entertaining event. Greatest appreciation to you
-                  and your team for the outstanding job you did for us. The
-                  website is just what we wanted, and we were thrilled with the
-                  speed your team exercised.{' '}
+                  The Arduino “stock rocket” will be available for purchase at a
+                  later date. Check our website for updates on this product.{' '}
                 </p>
               )}
             </li>
@@ -248,12 +237,10 @@ function FAQ() {
               </div>
               {question === 3 && (
                 <p className='pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg'>
-                  This is a seemingly simple question, but since most people
-                  answer about what they think, hope, or want cryptocurrencies
-                  to be, it is a confusing one. Cryptocurrencies are a digital
-                  asset that started as a medium of exchange for people to buy
-                  goods and services. Over time, their functionality has
-                  expanded.{' '}
+                  Crypto currencies are currencies like USD but are used as a
+                  form of payment that can be exchanged online for goods and
+                  services. Cryptocurrencies go up and down in value however
+                  they generate real no cash flow, similar to real currencies.{' '}
                 </p>
               )}
             </li>
@@ -308,11 +295,9 @@ function FAQ() {
               </div>
               {question === 4 && (
                 <p className='pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg'>
-                  Yes. It is estimated that close to 2,000 cryptocurrencies have
-                  failed. This is for a variety of reasons: lack of funding at
-                  start and after launch, failure to evolve, and a few were
-                  outright frauds. Many of the failures happened during the
-                  initial coin offering boom of 2017–2018.{' '}
+                  Yes, close to 2,000 cryptocurrencies have failed. However
+                  these failures were primarily due to poor management and
+                  design{' '}
                 </p>
               )}
             </li>
@@ -367,13 +352,12 @@ function FAQ() {
               </div>
               {question === 5 && (
                 <p className='pt-2 md:pt-3  lg:pt-5 text-gray-800 bg-gray-100 text-sm md:text-base  xl:text-lg rounded-b-lg'>
-                  Depending on who you ask, you would most likely get a
-                  different answer. Some investors believe it will be a store of
-                  value over time and a hedge against traditional fiat money.
-                  Some people just want to speculate and make a quick buck
-                  (coin). Some do want to be part of the ecosystem and use it as
-                  an alternative to traditional currency—not as an investment
-                  per se but a means of transacting.{' '}
+                  Cryptocurrency can be much more volatile than most investments
+                  in the New York Stock Exchange. In order to gain a profit on
+                  your crypto investment, someone essentially has to pay more
+                  for the currency than you did. Cryptocurrencies allow for fast
+                  and cheap global transactions. They also have increased
+                  protection from theft.{' '}
                 </p>
               )}
             </li>

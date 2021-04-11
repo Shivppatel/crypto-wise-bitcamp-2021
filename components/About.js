@@ -16,11 +16,10 @@ function About() {
                     Our Mission
                   </h1>
                   <h2 className='text-lg lg:text-3xl lg:leading-7 md:leading-10 f-f-r py-4 md:py-8'>
-                    Here at CryptoWise we take special care of what your
-                    organization needs instead of selling you a mass market tool
-                    that takes a one size fits all approach. I personally review
-                    each and every client business and oversee the team that
-                    tailores a solution
+                    We want to make crypto investing accessible to everyone by
+                    getting rid of the fear that crypto is highly volatile and
+                    risky. We believe crypto investing is an untapped
+                    opportunity for a majority of people to get into.
                   </h2>
                 </div>
               </div>
@@ -43,11 +42,10 @@ function About() {
                     Our Solution
                   </h1>
                   <h2 className='text-lg lg:text-3xl leading-7 md:leading-10 f-f-r py-8'>
-                    Here at CryptoWise we take special care of what your
-                    personal needs instead of selling you a mass market tool
-                    that takes a one size fits all approach. I personally review
-                    each and every client business and oversee the team that
-                    tailores a solution
+                    At CryptoWise we help investors feel more secure about their
+                    holdings by giving live updates about their portfolio. The
+                    user gets to choose the contents of the update notifications
+                    and how often the updates are sent.
                   </h2>
                 </div>
               </div>

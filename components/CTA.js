@@ -10,8 +10,8 @@ function CTA() {
             A better way to manage your crypto
           </p>
           <p className='mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto'>
-            Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam
-            voluptatum cupiditate veritatis in accusamus quisquam.
+            Easily view and get updates on all of your crypto holdings using
+            CryptoWise’s intuitive interface and push notification system.
           </p>
         </div>
 
@@ -41,9 +41,9 @@ function CTA() {
                 </p>
               </dt>
               <dd className='mt-2 ml-16 text-base text-gray-500'>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                Managing all of your crypto investments has never been easier.
+                With CryptoWise you can tailor your account to your own
+                investing needs
               </dd>
             </div>
 
@@ -71,9 +71,9 @@ function CTA() {
                 </p>
               </dt>
               <dd className='mt-2 ml-16 text-base text-gray-500'>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                CryptoWise tells you all of the fees up front so that when it
+                comes time to invest you are not hit with surprisingly high
+                fees.
               </dd>
             </div>
 
@@ -101,9 +101,8 @@ function CTA() {
                 </p>
               </dt>
               <dd className='mt-2 ml-16 text-base text-gray-500'>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                With our authentication method, connecting your coinbase wallet
+                is as easy as logging into facebook. It is fast and easy.
               </dd>
             </div>
 
@@ -131,9 +130,9 @@ function CTA() {
                 </p>
               </dt>
               <dd className='mt-2 ml-16 text-base text-gray-500'>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                Choose when to get alerted about updates to your portfolio. You
+                set the parameters of the mobile notifications so you will only
+                see what is important to you.
               </dd>
             </div>
           </dl>

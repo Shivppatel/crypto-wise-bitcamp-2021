@@ -17,7 +17,7 @@ function Hero() {
             <div className='sm:text-center lg:text-left'>
               <h1 className='text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl'>
                 <span className='block xl:inline'>
-                  Dont be like crypto guys be{' '}
+                  Don’t listen to the crypto lies be{' '}
                 </span>
                 <span className='block text-indigo-600 xl:inline'>
                   CryptoWise!
