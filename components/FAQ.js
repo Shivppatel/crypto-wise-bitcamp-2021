@@ -319,7 +319,7 @@ function FAQ() {
             <li className='py-6 border-gray-200 border-solid border-b'>
               <div className='flex justify-between items-center'>
                 <h3 className='text-gray-800 text-base  md:text-xl  xl:text-2xl w-10/12'>
-                  Why would I purchase crypto?
+                  Why should I purchase crypto?
                 </h3>
                 <div
                   className='cursor-pointer'

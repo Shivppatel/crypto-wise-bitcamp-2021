@@ -5,14 +5,14 @@ const options = {
     Providers.GitHub({
       clientId: process.env.GITHUB_ID,
       clientSecret: process.env.GITHUB_SECRET
-    })
-    /*         {
-                    id: 'coinbase',
-                    name: 'Coinbase',
-                    type: 'oauth',
-                    version: '2.0',
-                    scope: 'wallet:accounts:read,wallet:user:email '  // Make sure to request the users email address
-                } */
+    }),
+    {
+      id: 'coinbase',
+      name: 'Coinbase',
+      type: 'oauth',
+      version: '2.0',
+      scope: 'wallet:accounts:read,wallet:user:email ' // Make sure to request the users email address
+    }
   ]
 };
 
