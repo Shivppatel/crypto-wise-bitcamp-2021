@@ -7,7 +7,9 @@
 **Description**: CryptoWise is a platform designed to assist in managing personal crypto investments.
 
 **Built by**: Shiv Patel, Samual Johnson, and Bobby Coz
+
 </div>
+
 ## Demos
 
 [Devpost Link](https://devpost.com/software/cryptowise) | [Product Demo (link)](https://crypto-wise-bitcamp-2021.vercel.app/)
